@@ -1,7 +1,7 @@
 Github Issues to JIRA via JSON
 ==============================
 
-JIRA now provides a JSON import facility that is vastly easier to use than the CSV one.
+JIRA now provides a JSON import facility that is vastly easier to use than the CSV one. Be careful importing into an existing project as it will overwrite existing issues. 
 
 This is a simple script to generate a JSON file for this import from the GitHub Issues v3 API.
 
