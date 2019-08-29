@@ -12,7 +12,7 @@ Set Up
 
 install with `bundle install`
 
-Copy `config.yml.sample` to `config.yml` and edit the configuration to suit your needs.
+Copy `config.sample.yml` to `config.yml` and edit the configuration to suit your needs.
 
 
 Running
